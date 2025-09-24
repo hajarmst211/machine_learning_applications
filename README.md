@@ -1,0 +1,4 @@
+As my interest in machine learning grew i decided to discover these amazing techniques and libraries. Thus  i decided to do that by practicing.
+I've choosed a few basic machine learning models so that i can get the maximum of theory and essential knowledge.
+These projects helped me also consolidate my skills in  data manipulation, handeling and cleaning. Plus, i might aslo call this a small experience in data deployement since all what i did had one purpose, that is to extract useful informations form the data. That's why the data discovering and manipulations were oriented towards getting a maximum regureness so that our models would be highly accurate.
+Finally, this was a fine experience from wich i initialized with machine learning basics. Throught this i discovered a big interest in intelligent retrieval.
